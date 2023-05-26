@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer span{
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.material-icons{
+    color: rgb(226, 43, 195);
+}
+.nome{
+    color: rgb(143, 69, 212);
+}
+

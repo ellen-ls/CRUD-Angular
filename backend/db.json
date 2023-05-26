@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Celular",
+      "price": "2000"
+    },
+    {
+      "id": 2,
+      "name": "Celular",
+      "price": 2897.89
+    },
+    {
+      "name": "Produto teste",
+      "price": 127.5,
+      "id": 3
+    },
+    {
+      "name": "Produto teste",
+      "price": 127.5,
+      "id": 4
+    },
+    {
+      "name": "computador",
+      "price": "5000",
+      "id": 5
+    }
+  ]
+}
